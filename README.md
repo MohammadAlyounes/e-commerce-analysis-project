@@ -5,7 +5,7 @@ In e-commerce start-up. Stakeholders want to know which products performed best 
 
 
 ## Datasets
-We have a two dataset for November and December events. Each in a separate CSV file with same structure.
+We have a two datasets for November and December events. Each in a separate CSV file with same structure.
 
 | Column Name   | Description                              |
 |---------------|------------------------------------------|
@@ -18,3 +18,7 @@ We have a two dataset for November and December events. Each in a separate CSV f
 | `price`         | The price the user paid for the product in USD  |
 | `user_id`      | The unique identifier of the registered customer |
 | `user_session`  | The unique identifier of the user’s browsing session |
+
+
+## Desired outcomes
+Recommendations of the best performing products over the Christmas period should be the output of the analysis. The recommendation could be for individual product IDs or broader recommendations in relation to brands or product categories. The 'best' is dependent on the analysis and metrics chosen for the definition of 'best'.
