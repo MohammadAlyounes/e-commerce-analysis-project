@@ -1,1 +1,1 @@
-# e-commerce-analysis-project
+# E-commerce-analysis-project
