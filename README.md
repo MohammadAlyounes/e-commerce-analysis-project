@@ -6,6 +6,8 @@ In e-commerce start-up. Stakeholders want to know which products performed best 
 
 ## Datasets
 We have a two datasets for November and December events. Each in a separate CSV file with same structure.
+December dataset: https://drive.google.com/file/d/10G7p6oRe9ipRu6KAh8gJWEUFWZIFmguE/view?usp=sharing
+November dataset: https://drive.google.com/file/d/1Y5RfgGwHaCI7lRiONuEusYpQ2DBZy8Sn/view?usp=sharing
 
 | Column Name   | Description                              |
 |---------------|------------------------------------------|
